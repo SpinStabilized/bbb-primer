@@ -17,7 +17,7 @@
    
 int main() {
   
-  	iolib_init();
+    iolib_init();
     iolib_setdir(PORT, PIN_A, DIR_OUT);    // Set the GPIO P9_12 control to output
     iolib_setdir(PORT, PIN_B, DIR_OUT);    // Set the GPIO P9_15 control to output
 

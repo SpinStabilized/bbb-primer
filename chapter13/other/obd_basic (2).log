@@ -1,0 +1,10 @@
+05-15 02:26 obd          INFO     Interface Reset
+05-15 02:26 obd          INFO     Connected to STN1110 r1.0.
+05-15 02:26 obd          INFO     Firmware: 
+05-15 02:26 obd          INFO     Manufacured By: SparkFun Electronics
+05-15 02:26 obd          INFO     Serial Number: 111020746447
+05-15 02:26 car          WARNING  Unexpected number of bytes received.
+05-15 02:26 car          WARNING  Unexpected number of bytes received.
+05-15 02:26 car          WARNING  Unexpected number of bytes received.
+05-15 02:26 car          WARNING  Unexpected number of bytes received.
+05-15 02:26 obd          INFO     Disconnecting from STN1110 r1.0.
